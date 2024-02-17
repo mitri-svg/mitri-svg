@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitri-svg
 - 👀 I’m interested in codind
-- 🌱 I’m currently learning Botstrap
+- 🌱 I’m currently learning HTML,CSS,Bootstrap,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
